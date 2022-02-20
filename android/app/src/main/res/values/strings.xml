@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SegwitzTest</string>
+    <string name="facebook_app_id">427368302409161</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">0055ad6d8c0bf7b90d3a555d20e8c5bb</string>
+
+</resources>
